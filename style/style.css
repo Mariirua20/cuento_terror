@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body { 
+	margin: 0;
+    padding: 0;
+background-image: url("../img/fondo.png");
+	background-size: 1600px 750px;}
+
+.cuaderno{
+	width: 800px; 
+	height: 500px; 
+	background-color: aqua; 
+	margin: 120px 0 0 370px;}
+
+.libro1 {
+	width: 400px; 
+	height: 500px;
+	float: left; 
+	background-color: aliceblue;
+	background-image: url("../img/imghojashojas.jpg");
+	background-size: cover;}
+
+.imagen1{
+	width: 180px;
+	height: 180px;
+	background-image: url("../img/carboncillo1.png");
+	background-size: cover; 
+	margin: 0px 60px 0px 100px;}
+
+
+.libro2 {
+	width: 400px; 
+	height: 500px; 
+	float: left; 
+	background-color: aliceblue; 
+	background-image: url("../img/imghojashojas.jpg");
+	background-size: cover;}
+
+.imagen2{
+	width: 145px;
+	height: 150px;
+	background-image: url("../img/carboncillo2.png");
+	background-size:cover; 
+	margin: 30px 40px 0px 120px;}
+
+
+.imagen3{
+	width: 140px;
+	height: 150px;
+	background-image: url("../img/carboncillo3.png");
+	background-size: cover; 
+	margin: 25px 40px 0px 130px;}
+
+
+
+h1 { 
+	font-family: Roman, "Roboto Mono SemiBold";
+	padding: 20px 20px 20px 20px;
+    margin-bottom: -30px ;
+    text-align: center;}
+
+p {
+	font-family: Roman, "Roboto Mono Medium";
+	text-align: center;
+	padding: 20px 20px 20px 20px;
+    margin-bottom: -10px ;}
+
+
